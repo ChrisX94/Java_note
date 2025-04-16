@@ -1,0 +1,5 @@
+Hello, this is a sample file.
+It contains some text for testing purposes.
+The content here is almost identical.
+This line should be different in the second file.
+We hope the comparison works well.
